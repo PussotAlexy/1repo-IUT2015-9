@@ -5,7 +5,9 @@
        ng-class="{active: mainImageUrl==img}">
 </div>
 
-
+<a href="#/connexion">
+	<input type="button" value="Se connecter" />
+</a>
 
 
 <h1>{{phone.name}}</h1>
