@@ -99,6 +99,9 @@ h1 {
 }
 
 /* Menu*/
+.navbar{
+  margin-bottom:50px;
+}
 
 .navbar-brand {
     font-size: 24px;
