@@ -1,6 +1,6 @@
 'use strict';
 
-/* App Module*/
+/* App Module cory est une merde*/
 
 var phonecatApp = angular.module('phonecatApp', [
   'ngRoute',
