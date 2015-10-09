@@ -10,12 +10,11 @@
         <option value="age">Newest</option>
       </select>
 
+    </div>
+
 	<a href="#/connexion">
 		<input type="button" value="Se connecter" />
 	</a>
-    </div>
-
-	
     <div class="col-md-10">
       <!--Body content-->
 

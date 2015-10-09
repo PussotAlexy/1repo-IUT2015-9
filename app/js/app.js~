@@ -31,6 +31,7 @@ phonecatApp.config(['$routeProvider',
       });
       
   }]);
+<<<<<<< HEAD
   
   var myNavBar = {
 
@@ -102,3 +103,5 @@ window.onscroll = function(e) {
  */
 offSetManager();
 });
+=======
+>>>>>>> 5054de0d27670478ca64928586e2433fdac97938

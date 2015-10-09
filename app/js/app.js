@@ -26,6 +26,10 @@ phonecatApp.config(['$routeProvider',
           templateUrl:'partials/modifier.html',
           controller: 'PhoneDetailCtrl'
       }).
+	when('/connexion', {
+          templateUrl:'partials/connexion.html',
+          controller: 'PhoneDetailCtrl'
+      }).
       otherwise({
         redirectTo: '/phones'
       });
@@ -100,5 +104,3 @@ window.onscroll = function(e) {
  * We have to do a first detectation of offset because the page
  * could be load with scroll down set.
  */
-offSetManager();
-});
